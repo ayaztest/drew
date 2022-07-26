@@ -1,0 +1,4 @@
+{"name": "WOLFER FINANCE", 
+  "logoUrl": "https://wolfer.finance/wp-content/uploads/2022/04/Logo-1.jpg", 
+  "website": "https://wolfer.finance/", 
+  "contact": "https://wolfer.finance/contact/"}
